@@ -35,7 +35,7 @@
     <string name="add_a_room_name">Add a Room Name</string>
     <string name="add_a_topic">Add a Topic</string>
     <string name="add_back_action_label">Add Them Back</string>
-    <string name="add_contacts_banner_subTitle">Find people you know</string>
+    <string name="add_contacts_banner_subTitle">Finde Leute, die du kennst</string>
     <string name="app_name">LokalizeTest</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
